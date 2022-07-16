@@ -1,8 +1,8 @@
 # Hi there, I'm Eric <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 
-### :man_technologist: &nbsp;About Me:
+### 👨‍💻 &nbsp;About Me:
 
-- ⚙ Software Developer @ [Youshie](https://www.youshie.com/)
+- 💼 Software Developer @ [Youshie](https://www.youshie.com/)
 - 🎓 3rd Year Computer Science Specialist and Math Minor at the University of Toronto
 
 ---
@@ -38,6 +38,6 @@
 
 ### 🔥 &nbsp; My Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericdaddario02&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=ericdaddario02&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=ericdaddario02&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericdaddario02&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
