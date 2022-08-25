@@ -38,6 +38,8 @@
 
 ### 🔥 &nbsp; My Stats:
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ericdaddario02&theme=tokyonight)](https://git.io/streak-stats)
+
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=ericdaddario02&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericdaddario02&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
