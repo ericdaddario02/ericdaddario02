@@ -2,14 +2,14 @@
 
 ### 👨‍💻 &nbsp;About Me:
 
-- 💼 Software Developer @ [Youshie](https://www.youshie.com/)
 - 🎓 3rd Year Computer Science Specialist and Math Minor at the University of Toronto
 
 ---
 
-<!-- ### 📝 Recent Roles
+### 📝 Recent Roles
+- Software Developer @ [Youshie](https://www.youshie.com/)
 
---- -->
+---
 
 ### 🛠 &nbsp;Languages and Technologies:
 
@@ -32,10 +32,14 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
-
-
 ---
 
+### 💻 &nbsp; My Projects
+#### [MyGroceryPal App](https://github.com/ericdaddario02/MyGroceryPal_App)
+- Mobile app for managing all your grocery lists in a simple and elegant way!
+- Built with React Native and TypeScript.
+
+<!--
 ### 🔥 &nbsp; My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ericdaddario02&theme=tokyonight)](https://git.io/streak-stats)
@@ -43,3 +47,4 @@
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=ericdaddario02&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericdaddario02&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+-->
