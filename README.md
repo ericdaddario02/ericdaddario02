@@ -35,9 +35,9 @@
 ---
 
 ### 💻 &nbsp; My Projects
-#### [MyGroceryPal App](https://github.com/ericdaddario02/MyGroceryPal_App)
-- Mobile app for managing all your grocery lists in a simple and elegant way!
-- Built with React Native and TypeScript.
+- #### [MyGroceryPal App](https://github.com/ericdaddario02/MyGroceryPal_App)
+  - Mobile app for managing all your grocery lists in a simple and elegant way!
+  - Built with React Native and TypeScript.
 
 <!--
 ### 🔥 &nbsp; My Stats:
