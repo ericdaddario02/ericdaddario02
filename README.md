@@ -2,7 +2,7 @@
 
 ### 👨‍💻 &nbsp;About Me:
 
-- 🎓 3rd Year Computer Science Specialist and Math Minor at the University of Toronto
+- 🎓 4th Year Computer Science Specialist and Math Minor at the University of Toronto
 
 ---
 
@@ -37,6 +37,9 @@
 ---
 
 ### 💻 &nbsp; My Projects
+- #### [tidal-tui](https://github.com/ericdaddario02/tidal-tui)
+  - Terminal User Interface (TUI) music streaming application for Tidal.
+  - Built with Rust and Ratatui.
 - #### [MyGroceryPal App](https://github.com/ericdaddario02/MyGroceryPal_App)
   - Mobile app for managing all your grocery lists in a simple and elegant way!
   - Built with React Native and TypeScript.
