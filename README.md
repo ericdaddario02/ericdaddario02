@@ -3,6 +3,7 @@
 ### 👨‍💻 &nbsp;About Me:
 
 - 🎓 4th Year Computer Science Specialist and Math Minor at the University of Toronto
+- 💼 Check out my LinkedIn [here](https://www.linkedin.com/in/ericdaddario/)!
 
 ---
 
